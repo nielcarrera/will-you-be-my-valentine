@@ -255,8 +255,7 @@ export default function App() {
                 src="https://gifdb.com/images/high/cute-love-bear-roses-ou7zho5oosxnpo6k.gif"
               />
               <h1 className="my-4 text-4xl font-bold text-gray-800 max-w-lg">
-                Hi you avoidant baddie, I'm back! So can we go back na and Will
-                you be my valentine?
+                Can we go back to what we had and Will you be my valentine????
               </h1>
               <div className="flex flex-wrap justify-center gap-4 items-center mt-4">
                 <button
