@@ -116,11 +116,17 @@ export default function App() {
   const yesButtonSize = noCount * 20 + 16;
 
   const steps = [
-    { text: "Hi loveyyy, do you miss me?" },
-    { text: "Oh so you clicked next it means you do hehehe" },
+    { text: "Hi miss, how are you? do you miss me?" },
+    { text: "Oh so you clicked next means you do hehehe" },
+    { text: "Can you click the song first para mas maganda" },
+    { text: "Good girl hehehe" },
+    { text: "Kala mo di ko tanda tong song na to ha" },
     { text: "Can i have some of your time, this wont last long naman" },
     {
       text: "So I made this after I finished making our project sa OJT, I hope you're proud of me",
+    },
+    {
+      text: "Please stay until the end, talagang cinode ko to for you",
     },
     { text: "Sooooooooo" },
     { text: "Happy Valentine's babyyy" },
@@ -224,7 +230,7 @@ export default function App() {
                 onClick={handleNext}
                 className="bg-pink-500 text-white font-bold py-2 px-6 rounded-full shadow-md hover:bg-pink-600 transition-transform transform hover:scale-105 flex items-center gap-2"
               >
-                Next ➜
+                Next po baby ko ➜
               </button>
             </div>
           </div>
