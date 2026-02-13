@@ -172,12 +172,11 @@ export default function App() {
       "Promise we'll make it right this time",
       "Pleaseeeeee huhuhuhuh",
       "Susumbong kita kay mama sige",
-      "Babyyy plsss",
       "I know u still love me u avoidant baddie",
       "Di ako naniniwalang ayaw mo",
       "Just imagine what we could do together if you say yes",
       "Pleaseeeee",
-      "Pleaseeee loveyyy",
+
       "Just Imagineeee",
       "I still love you hihihi",
       "Pleaseeeee",
